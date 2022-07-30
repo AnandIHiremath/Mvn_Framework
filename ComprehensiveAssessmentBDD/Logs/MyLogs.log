@@ -1,0 +1,145 @@
+[INFO ] 2022-07-29 13:32:35.992 [main] StepDefination - Initilizing all the methods
+[INFO ] 2022-07-29 13:32:47.878 [main] StepDefination - Setting Up Browser
+[INFO ] 2022-07-29 13:32:47.905 [main] StepDefination - Seventh Test case
+[INFO ] 2022-07-29 13:32:54.725 [main] StepDefination - Clicked on Bounce
+[INFO ] 2022-07-29 13:32:55.200 [main] StepDefination - Clicked on Buy now
+[INFO ] 2022-07-29 13:32:57.467 [main] StepDefination - Compared text of product before clicking on buy and after clicking on buy 
+[INFO ] 2022-07-29 13:32:57.839 [main] StepDefination - Test Passed captured ScreenShot
+[INFO ] 2022-07-29 13:32:59.626 [main] StepDefination - Initilizing all the methods
+[INFO ] 2022-07-29 13:33:08.358 [main] StepDefination - Setting Up Browser
+[INFO ] 2022-07-29 13:33:08.359 [main] StepDefination - Eighth Test case
+[INFO ] 2022-07-29 13:33:20.775 [main] StepDefination - Clicked on Downy
+[INFO ] 2022-07-29 13:33:21.088 [main] StepDefination - mouse hovered on About
+[INFO ] 2022-07-29 13:33:31.544 [main] StepDefination - Clicked on Ingridents
+[INFO ] 2022-07-29 13:33:31.985 [main] StepDefination - Text verified
+[INFO ] 2022-07-29 13:33:32.745 [main] StepDefination - Test Passed captured ScreenShot
+[INFO ] 2022-07-29 13:33:33.770 [main] StepDefination - Initilizing all the methods
+[INFO ] 2022-07-29 13:33:47.963 [main] StepDefination - Setting Up Browser
+[INFO ] 2022-07-29 13:33:47.965 [main] StepDefination - Sixth Test case
+[INFO ] 2022-07-29 13:33:48.529 [main] StepDefination - Clicked on Remove Stain
+[INFO ] 2022-07-29 13:33:50.005 [main] StepDefination - Text verified
+[INFO ] 2022-07-29 13:33:50.301 [main] StepDefination - Test Passed captured ScreenShot
+[INFO ] 2022-07-29 13:33:51.238 [main] StepDefination - Initilizing all the methods
+[INFO ] 2022-07-29 13:33:59.595 [main] StepDefination - Setting Up Browser
+[INFO ] 2022-07-29 13:33:59.596 [main] StepDefination - Ninth Test case
+[INFO ] 2022-07-29 13:34:00.404 [main] StepDefination - Click on Arrow button 
+[INFO ] 2022-07-29 13:34:00.998 [main] StepDefination - Verified stain and clicked on Learn More
+[INFO ] 2022-07-29 13:34:01.851 [main] StepDefination - Test Passed captured ScreenShot
+[INFO ] 2022-07-29 13:34:02.547 [main] StepDefination - Initilizing all the methods
+[INFO ] 2022-07-29 13:34:11.034 [main] StepDefination - Setting Up Browser
+[INFO ] 2022-07-29 13:34:11.035 [main] StepDefination - Tenth Test case
+[INFO ] 2022-07-29 13:34:11.260 [main] StepDefination - Mouse hovered on our commitment
+[INFO ] 2022-07-29 13:34:11.811 [main] StepDefination - Click on sustainability 
+[INFO ] 2022-07-29 13:34:12.950 [main] StepDefination - Click on learn more
+[INFO ] 2022-07-29 13:34:13.325 [main] StepDefination - Test Passed captured ScreenShot
+[INFO ] 2022-07-29 13:34:14.023 [main] StepDefination - Initilizing all the methods
+[INFO ] 2022-07-29 13:34:22.922 [main] StepDefination - Setting Up Browser
+[INFO ] 2022-07-29 13:34:22.923 [main] StepDefination - Fifth Test case
+[INFO ] 2022-07-29 13:34:30.175 [main] StepDefination - Clicked on P&G
+[INFO ] 2022-07-29 13:34:30.359 [main] StepDefination - mouse hovered on OurCompany
+[INFO ] 2022-07-29 13:34:38.770 [main] StepDefination - Clicked on leadership
+[INFO ] 2022-07-29 13:34:39.052 [main] StepDefination - Text verified
+[INFO ] 2022-07-29 13:34:39.279 [main] StepDefination - Test Passed captured ScreenShot
+[INFO ] 2022-07-29 13:34:40.055 [main] StepDefination - Initilizing all the methods
+[INFO ] 2022-07-29 13:34:49.089 [main] StepDefination - Setting Up Browser
+[INFO ] 2022-07-29 13:34:49.089 [main] StepDefination - Fourth Test case
+[INFO ] 2022-07-29 13:34:49.245 [main] StepDefination - Clicked on Search box
+[INFO ] 2022-07-29 13:34:49.366 [main] StepDefination - Entered text in Search box
+[INFO ] 2022-07-29 13:34:50.692 [main] StepDefination - Pressed Enter
+[INFO ] 2022-07-29 13:34:51.523 [main] StepDefination - Text verified
+[INFO ] 2022-07-29 13:34:51.751 [main] StepDefination - Test Passed captured ScreenShot
+[INFO ] 2022-07-29 13:34:52.578 [main] StepDefination - Initilizing all the methods
+[INFO ] 2022-07-29 13:35:02.310 [main] StepDefination - Setting Up Browser
+[INFO ] 2022-07-29 13:35:02.311 [main] StepDefination - First Test case
+[INFO ] 2022-07-29 13:35:02.522 [main] StepDefination - Mouse hovered on shop products
+[INFO ] 2022-07-29 13:35:05.077 [main] StepDefination - Clicked on Pacs
+[INFO ] 2022-07-29 13:35:10.590 [main] StepDefination - Text verified
+[INFO ] 2022-07-29 13:35:10.847 [main] StepDefination - Test Passed captured ScreenShot
+[INFO ] 2022-07-29 13:35:11.697 [main] StepDefination - Initilizing all the methods
+[INFO ] 2022-07-29 13:35:20.645 [main] StepDefination - Setting Up Browser
+[INFO ] 2022-07-29 13:35:20.646 [main] StepDefination - Second Test case
+[INFO ] 2022-07-29 13:35:21.050 [main] StepDefination - Clicked on Register button
+[INFO ] 2022-07-29 13:35:21.798 [main] StepDefination - Clicked on Signup button
+[INFO ] 2022-07-29 13:35:27.494 [main] StepDefination - Entered first name
+[INFO ] 2022-07-29 13:35:28.105 [main] StepDefination - Entered Email address
+[INFO ] 2022-07-29 13:35:29.003 [main] StepDefination - Entered password
+[INFO ] 2022-07-29 13:35:29.844 [main] StepDefination - Clicked on Create Account button
+[INFO ] 2022-07-29 13:35:31.458 [main] StepDefination - Test Passed captured ScreenShot
+[INFO ] 2022-07-29 13:35:32.604 [main] StepDefination - Initilizing all the methods
+[INFO ] 2022-07-29 13:35:41.644 [main] StepDefination - Setting Up Browser
+[INFO ] 2022-07-29 13:35:41.645 [main] StepDefination - Third Test case
+[INFO ] 2022-07-29 13:35:42.063 [main] StepDefination - Clicked on At Tide Safety Comes First, and It Never Stops
+[INFO ] 2022-07-29 13:35:43.041 [main] StepDefination - Text verified
+[INFO ] 2022-07-29 13:35:43.239 [main] StepDefination - Test Passed captured ScreenShot
+[INFO ] 2022-07-30 15:24:15.636 [main] StepDefination - Initilizing all the methods
+[INFO ] 2022-07-30 15:24:23.398 [main] StepDefination - Setting Up Browser
+[INFO ] 2022-07-30 15:24:23.409 [main] StepDefination - Seventh Test case
+[INFO ] 2022-07-30 15:24:29.224 [main] StepDefination - Clicked on Bounce
+[INFO ] 2022-07-30 15:24:29.421 [main] StepDefination - Clicked on Buy now
+[INFO ] 2022-07-30 15:24:31.464 [main] StepDefination - Compared text of product before clicking on buy and after clicking on buy 
+[INFO ] 2022-07-30 15:24:31.629 [main] StepDefination - Test Passed captured ScreenShot
+[INFO ] 2022-07-30 15:24:32.447 [main] StepDefination - Initilizing all the methods
+[INFO ] 2022-07-30 15:24:38.260 [main] StepDefination - Setting Up Browser
+[INFO ] 2022-07-30 15:24:38.261 [main] StepDefination - Eighth Test case
+[INFO ] 2022-07-30 15:24:50.554 [main] StepDefination - Clicked on Downy
+[INFO ] 2022-07-30 15:24:50.725 [main] StepDefination - mouse hovered on About
+[INFO ] 2022-07-30 15:25:00.931 [main] StepDefination - Clicked on Ingridents
+[INFO ] 2022-07-30 15:25:01.082 [main] StepDefination - Text verified
+[INFO ] 2022-07-30 15:25:01.375 [main] StepDefination - Test Passed captured ScreenShot
+[INFO ] 2022-07-30 15:25:01.823 [main] StepDefination - Initilizing all the methods
+[INFO ] 2022-07-30 15:25:06.745 [main] StepDefination - Setting Up Browser
+[INFO ] 2022-07-30 15:25:06.746 [main] StepDefination - Sixth Test case
+[INFO ] 2022-07-30 15:25:07.017 [main] StepDefination - Clicked on Remove Stain
+[WARN ] 2022-07-30 15:25:07.524 [main] StepDefination - This Test Failed captured ScreenShot
+[INFO ] 2022-07-30 15:25:11.989 [main] StepDefination - Initilizing all the methods
+[INFO ] 2022-07-30 15:25:17.906 [main] StepDefination - Setting Up Browser
+[INFO ] 2022-07-30 15:25:17.908 [main] StepDefination - Ninth Test case
+[INFO ] 2022-07-30 15:25:18.126 [main] StepDefination - Click on Arrow button 
+[INFO ] 2022-07-30 15:25:18.390 [main] StepDefination - Verified stain and clicked on Learn More
+[INFO ] 2022-07-30 15:25:18.718 [main] StepDefination - Test Passed captured ScreenShot
+[INFO ] 2022-07-30 15:25:23.200 [main] StepDefination - Initilizing all the methods
+[INFO ] 2022-07-30 15:25:27.512 [main] StepDefination - Setting Up Browser
+[INFO ] 2022-07-30 15:25:27.512 [main] StepDefination - Tenth Test case
+[INFO ] 2022-07-30 15:25:27.692 [main] StepDefination - Mouse hovered on our commitment
+[INFO ] 2022-07-30 15:25:27.921 [main] StepDefination - Click on sustainability 
+[INFO ] 2022-07-30 15:25:28.201 [main] StepDefination - Click on learn more
+[INFO ] 2022-07-30 15:25:28.740 [main] StepDefination - Test Passed captured ScreenShot
+[INFO ] 2022-07-30 15:25:33.221 [main] StepDefination - Initilizing all the methods
+[INFO ] 2022-07-30 15:25:37.275 [main] StepDefination - Setting Up Browser
+[INFO ] 2022-07-30 15:25:37.276 [main] StepDefination - Fifth Test case
+[INFO ] 2022-07-30 15:25:43.345 [main] StepDefination - Clicked on P&G
+[INFO ] 2022-07-30 15:25:43.499 [main] StepDefination - mouse hovered on OurCompany
+[INFO ] 2022-07-30 15:25:49.883 [main] StepDefination - Clicked on leadership
+[INFO ] 2022-07-30 15:25:49.998 [main] StepDefination - Text verified
+[INFO ] 2022-07-30 15:25:50.117 [main] StepDefination - Test Passed captured ScreenShot
+[INFO ] 2022-07-30 15:25:54.645 [main] StepDefination - Initilizing all the methods
+[INFO ] 2022-07-30 15:26:00.357 [main] StepDefination - Setting Up Browser
+[INFO ] 2022-07-30 15:26:00.358 [main] StepDefination - Fourth Test case
+[INFO ] 2022-07-30 15:26:00.417 [main] StepDefination - Clicked on Search box
+[INFO ] 2022-07-30 15:26:00.457 [main] StepDefination - Entered text in Search box
+[INFO ] 2022-07-30 15:26:01.747 [main] StepDefination - Pressed Enter
+[INFO ] 2022-07-30 15:26:01.840 [main] StepDefination - Text verified
+[INFO ] 2022-07-30 15:26:01.934 [main] StepDefination - Test Passed captured ScreenShot
+[INFO ] 2022-07-30 15:26:06.341 [main] StepDefination - Initilizing all the methods
+[INFO ] 2022-07-30 15:26:12.401 [main] StepDefination - Setting Up Browser
+[INFO ] 2022-07-30 15:26:12.402 [main] StepDefination - First Test case
+[INFO ] 2022-07-30 15:26:12.563 [main] StepDefination - Mouse hovered on shop products
+[INFO ] 2022-07-30 15:26:14.851 [main] StepDefination - Clicked on Pacs
+[INFO ] 2022-07-30 15:26:16.965 [main] StepDefination - Text verified
+[INFO ] 2022-07-30 15:26:17.109 [main] StepDefination - Test Passed captured ScreenShot
+[INFO ] 2022-07-30 15:26:21.617 [main] StepDefination - Initilizing all the methods
+[INFO ] 2022-07-30 15:26:27.635 [main] StepDefination - Setting Up Browser
+[INFO ] 2022-07-30 15:26:27.636 [main] StepDefination - Second Test case
+[INFO ] 2022-07-30 15:26:27.812 [main] StepDefination - Clicked on Register button
+[INFO ] 2022-07-30 15:26:28.144 [main] StepDefination - Clicked on Signup button
+[INFO ] 2022-07-30 15:26:30.938 [main] StepDefination - Entered first name
+[INFO ] 2022-07-30 15:26:31.090 [main] StepDefination - Entered Email address
+[INFO ] 2022-07-30 15:26:31.419 [main] StepDefination - Entered password
+[INFO ] 2022-07-30 15:26:31.612 [main] StepDefination - Clicked on Create Account button
+[INFO ] 2022-07-30 15:26:31.753 [main] StepDefination - Test Passed captured ScreenShot
+[INFO ] 2022-07-30 15:26:32.287 [main] StepDefination - Initilizing all the methods
+[INFO ] 2022-07-30 15:26:38.022 [main] StepDefination - Setting Up Browser
+[INFO ] 2022-07-30 15:26:38.023 [main] StepDefination - Third Test case
+[INFO ] 2022-07-30 15:26:38.234 [main] StepDefination - Clicked on At Tide Safety Comes First, and It Never Stops
+[INFO ] 2022-07-30 15:26:38.566 [main] StepDefination - Text verified
+[INFO ] 2022-07-30 15:26:38.684 [main] StepDefination - Test Passed captured ScreenShot
