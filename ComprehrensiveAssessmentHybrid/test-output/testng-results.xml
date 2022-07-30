@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-29T00:15:28 IST" name="Default suite" finished-at="2022-07-29T00:18:33 IST" duration-ms="184758">
+    <groups>
+    </groups>
+    <test started-at="2022-07-29T00:15:28 IST" name="Default test" finished-at="2022-07-29T00:18:33 IST" duration-ms="184758">
+      <class name="com.mindtree.runner.Runner">
+        <test-method is-config="true" signature="before()[pri:0, instance:com.mindtree.runner.Runner@4ebff610]" started-at="2022-07-29T00:15:28 IST" name="before" finished-at="2022-07-29T00:15:28 IST" duration-ms="530" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.mindtree.runner.Runner@4ebff610]" started-at="2022-07-29T00:15:28 IST" name="setUp" finished-at="2022-07-29T00:15:40 IST" duration-ms="12104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test1()[pri:1, instance:com.mindtree.runner.Runner@4ebff610]" started-at="2022-07-29T00:15:40 IST" name="test1" finished-at="2022-07-29T00:15:49 IST" duration-ms="8164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.mindtree.runner.Runner@4ebff610]" started-at="2022-07-29T00:15:49 IST" name="tearDownMethod" finished-at="2022-07-29T00:15:50 IST" duration-ms="1565" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test1 status=SUCCESS method=Runner.test1()[pri:1, instance:com.mindtree.runner.Runner@4ebff610] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.mindtree.runner.Runner@4ebff610]" started-at="2022-07-29T00:15:50 IST" name="setUp" finished-at="2022-07-29T00:16:00 IST" duration-ms="10286" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test2()[pri:2, instance:com.mindtree.runner.Runner@4ebff610]" started-at="2022-07-29T00:16:00 IST" name="test2" finished-at="2022-07-29T00:16:07 IST" duration-ms="6308" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.mindtree.runner.Runner@4ebff610]" started-at="2022-07-29T00:16:07 IST" name="tearDownMethod" finished-at="2022-07-29T00:16:08 IST" duration-ms="920" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test2 status=SUCCESS method=Runner.test2()[pri:2, instance:com.mindtree.runner.Runner@4ebff610] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.mindtree.runner.Runner@4ebff610]" started-at="2022-07-29T00:16:08 IST" name="setUp" finished-at="2022-07-29T00:16:18 IST" duration-ms="10650" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test3()[pri:3, instance:com.mindtree.runner.Runner@4ebff610]" started-at="2022-07-29T00:16:18 IST" name="test3" finished-at="2022-07-29T00:16:20 IST" duration-ms="1675" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method is-config="true" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.mindtree.runner.Runner@4ebff610]" started-at="2022-07-29T00:16:20 IST" name="tearDownMethod" finished-at="2022-07-29T00:16:21 IST" duration-ms="713" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test3 status=SUCCESS method=Runner.test3()[pri:3, instance:com.mindtree.runner.Runner@4ebff610] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.mindtree.runner.Runner@4ebff610]" started-at="2022-07-29T00:16:21 IST" name="setUp" finished-at="2022-07-29T00:16:31 IST" duration-ms="10105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test4()[pri:4, instance:com.mindtree.runner.Runner@4ebff610]" started-at="2022-07-29T00:16:31 IST" name="test4" finished-at="2022-07-29T00:16:33 IST" duration-ms="2202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method is-config="true" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.mindtree.runner.Runner@4ebff610]" started-at="2022-07-29T00:16:33 IST" name="tearDownMethod" finished-at="2022-07-29T00:16:34 IST" duration-ms="629" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test4 status=SUCCESS method=Runner.test4()[pri:4, instance:com.mindtree.runner.Runner@4ebff610] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.mindtree.runner.Runner@4ebff610]" started-at="2022-07-29T00:16:34 IST" name="setUp" finished-at="2022-07-29T00:16:44 IST" duration-ms="10496" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test5()[pri:5, instance:com.mindtree.runner.Runner@4ebff610]" started-at="2022-07-29T00:16:44 IST" name="test5" finished-at="2022-07-29T00:16:56 IST" duration-ms="11360" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+        <test-method is-config="true" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.mindtree.runner.Runner@4ebff610]" started-at="2022-07-29T00:16:56 IST" name="tearDownMethod" finished-at="2022-07-29T00:16:56 IST" duration-ms="544" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test5 status=SUCCESS method=Runner.test5()[pri:5, instance:com.mindtree.runner.Runner@4ebff610] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.mindtree.runner.Runner@4ebff610]" started-at="2022-07-29T00:16:56 IST" name="setUp" finished-at="2022-07-29T00:17:06 IST" duration-ms="10238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test6()[pri:6, instance:com.mindtree.runner.Runner@4ebff610]" started-at="2022-07-29T00:17:06 IST" name="test6" finished-at="2022-07-29T00:17:08 IST" duration-ms="1675" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test6 -->
+        <test-method is-config="true" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.mindtree.runner.Runner@4ebff610]" started-at="2022-07-29T00:17:08 IST" name="tearDownMethod" finished-at="2022-07-29T00:17:09 IST" duration-ms="993" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test6 status=SUCCESS method=Runner.test6()[pri:6, instance:com.mindtree.runner.Runner@4ebff610] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.mindtree.runner.Runner@4ebff610]" started-at="2022-07-29T00:17:09 IST" name="setUp" finished-at="2022-07-29T00:17:20 IST" duration-ms="10544" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test7()[pri:7, instance:com.mindtree.runner.Runner@4ebff610]" started-at="2022-07-29T00:17:20 IST" name="test7" finished-at="2022-07-29T00:17:29 IST" duration-ms="9403" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test7 -->
+        <test-method is-config="true" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.mindtree.runner.Runner@4ebff610]" started-at="2022-07-29T00:17:29 IST" name="tearDownMethod" finished-at="2022-07-29T00:17:30 IST" duration-ms="617" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test7 status=SUCCESS method=Runner.test7()[pri:7, instance:com.mindtree.runner.Runner@4ebff610] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.mindtree.runner.Runner@4ebff610]" started-at="2022-07-29T00:17:30 IST" name="setUp" finished-at="2022-07-29T00:17:42 IST" duration-ms="12857" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test8()[pri:8, instance:com.mindtree.runner.Runner@4ebff610]" started-at="2022-07-29T00:17:42 IST" name="test8" finished-at="2022-07-29T00:18:06 IST" duration-ms="23189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test8 -->
+        <test-method is-config="true" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.mindtree.runner.Runner@4ebff610]" started-at="2022-07-29T00:18:06 IST" name="tearDownMethod" finished-at="2022-07-29T00:18:07 IST" duration-ms="1291" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test8 status=SUCCESS method=Runner.test8()[pri:8, instance:com.mindtree.runner.Runner@4ebff610] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.mindtree.runner.Runner@4ebff610]" started-at="2022-07-29T00:18:07 IST" name="setUp" finished-at="2022-07-29T00:18:18 IST" duration-ms="10673" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test9()[pri:9, instance:com.mindtree.runner.Runner@4ebff610]" started-at="2022-07-29T00:18:18 IST" name="test9" finished-at="2022-07-29T00:18:19 IST" duration-ms="1359" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test9 -->
+        <test-method is-config="true" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.mindtree.runner.Runner@4ebff610]" started-at="2022-07-29T00:18:19 IST" name="tearDownMethod" finished-at="2022-07-29T00:18:20 IST" duration-ms="1074" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test9 status=SUCCESS method=Runner.test9()[pri:9, instance:com.mindtree.runner.Runner@4ebff610] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.mindtree.runner.Runner@4ebff610]" started-at="2022-07-29T00:18:20 IST" name="setUp" finished-at="2022-07-29T00:18:30 IST" duration-ms="10420" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test10()[pri:10, instance:com.mindtree.runner.Runner@4ebff610]" started-at="2022-07-29T00:18:30 IST" name="test10" finished-at="2022-07-29T00:18:32 IST" duration-ms="1880" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test10 -->
+        <test-method is-config="true" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.mindtree.runner.Runner@4ebff610]" started-at="2022-07-29T00:18:32 IST" name="tearDownMethod" finished-at="2022-07-29T00:18:33 IST" duration-ms="736" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test10 status=SUCCESS method=Runner.test10()[pri:10, instance:com.mindtree.runner.Runner@4ebff610] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mindtree.runner.Runner@4ebff610]" started-at="2022-07-29T00:18:33 IST" name="tearDown" finished-at="2022-07-29T00:18:34 IST" duration-ms="487" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.mindtree.runner.Runner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
